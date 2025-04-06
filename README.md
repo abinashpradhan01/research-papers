@@ -20,6 +20,9 @@ Inspired by [@saurabhaloneai](https://github.com/saurabhaloneai/History-of-Deep-
 ├── Optimization & Regularization
 ├── Sequence Modeling
 ├── Language Modeling
+├── Open Source LLMs & Implementation
+├── Architecture Innovations
+├── Training Methodologies
 ├── Image Generative Modeling
 ├── Deep Reinforcement Learning
 ├── General Machine Learning Papers
@@ -28,7 +31,10 @@ Inspired by [@saurabhaloneai](https://github.com/saurabhaloneai/History-of-Deep-
 ├── Scaling & Model Optimization
 ├── Reasoning & Capabilities
 ├── Inference & Efficiency Techniques
-└── Fine-tuning & Adaptation
+├── Fine-tuning & Adaptation
+├── Graph Neural Networks
+└── Self-Supervised and Few-Shot Learning
+
 ```
 
 ---
@@ -68,11 +74,17 @@ Inspired by [@saurabhaloneai](https://github.com/saurabhaloneai/History-of-Deep-
 - [ ] **BERT: Bidirectional Transformers for Language Understanding (2018)** [📄 Paper](https://arxiv.org/abs/1810.04805) [💻 Repo]()
 - [ ] **GPT-1 (2018)**: Improving Language Understanding [📄 Paper](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) [💻 Repo]()
 - [ ] **GPT-2 (2019)**: Language Models are Unsupervised Multitask Learners [📄 Paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) [💻 Repo]()
-- [ ] **GPT-3 (2020)**: Language Models are Few-Shot Learners [📄 Paper](https://arxiv.org/abs/2005.14165) [💻 Repo]()
-- [ ] **GPT-4 (2023)**: Technical Report [📄 Paper](https://arxiv.org/abs/2303.08774) [💻 Repo]()
 - [ ] **T5: Unified Text-to-Text Transformer (2019)** [📄 Paper](https://arxiv.org/abs/1910.10683) [💻 Repo]()
 - [ ] **Vision Transformer (2020)**: Image Recognition with Transformers [📄 Paper](https://arxiv.org/abs/2010.11929) [💻 Repo]()
-
+- [ ] Llama (2023): Open Foundation Models [📄 Paper](https://arxiv.org/abs/2302.13971) [💻 Repo]()
+- [ ] Llama 2 (2023): Open Foundation Models [📄 Paper](https://arxiv.org/abs/2307.09288) [💻 Repo]()
+- [ ] Llama 3 (2024): Open Foundation Models [📄 Paper](https://arxiv.org/abs/2404.08735) [💻 Repo]()
+- [ ] Mistral (2023): Efficient Transformer Architecture [📄 Paper](https://arxiv.org/abs/2310.06825) [💻 Repo]()
+- [ ] Mixtral (2023): Sparse Mixture of Experts [📄 Paper](https://arxiv.org/abs/2401.04088) [💻 Repo]()
+- [ ] Reinforcement Learning from Human Feedback (RLHF) (2022) [📄 Paper](https://arxiv.org/abs/2204.05862) [💻 Repo]()
+- [ ] Constitutional AI (CAI) (2023) [📄 Paper](https://arxiv.org/abs/2212.08073) [💻 Repo]()
+- [ ] Direct Preference Optimization (DPO) (2023) [📄 Paper](https://arxiv.org/abs/2305.18290) [💻 Repo]()
+      
 ### 5️⃣ Image Generative Modeling
 - [ ] **Generative Adversarial Networks (2014)** - GAN [📄 Paper](https://arxiv.org/abs/1406.2661) [💻 Repo]()
 - [ ] **Auto-Encoding Variational Bayes (2013)** - VAE [📄 Paper](https://arxiv.org/abs/1312.6114) [💻 Repo]()
@@ -81,6 +93,10 @@ Inspired by [@saurabhaloneai](https://github.com/saurabhaloneai/History-of-Deep-
 - [ ] **Denoising Diffusion Probabilistic Models (2020)** [📄 Paper](https://arxiv.org/abs/2006.11239) [💻 Repo]()
 - [ ] **DALL-E (2021)**: Text-to-Image Generation [📄 Paper](https://arxiv.org/abs/2102.12092) [💻 Repo]()
 - [ ] **CLIP (2021)**: Visual Models from Natural Language Supervision [📄 Paper](https://arxiv.org/abs/2103.00020) [💻 Repo]()
+- [ ] **Rotary Position Embeddings (RoPE) (2021)** [📄](https://arxiv.org/abs/2104.09864) [💻 Repo]()
+- [ ] **Grouped-Query Attention (GQA) (2023)** [📄](https://arxiv.org/abs/2305.13245) [💻 Repo]()
+- [ ] **Multi-Query Attention (MQA) (2019)** [📄](https://arxiv.org/abs/1911.02150) [💻 Repo]() 
+- [ ] **Sliding Window Attention (2020)** [📄](https://arxiv.org/abs/2004.05150) [💻 Repo]()
 
 ### 6️⃣ Deep Reinforcement Learning
 - [ ] **Playing Atari Games (2013)** - Deep Q-Learning [📄 Paper](https://arxiv.org/abs/1312.5602) [💻 Repo]()
