@@ -105,7 +105,6 @@ Inspired by [@saurabhaloneai](https://github.com/saurabhaloneai/History-of-Deep-
 - [ ] **Proximal Policy Optimization (2017)** - PPO [📄 Paper](https://arxiv.org/abs/1707.06347) [💻 Repo]()
 
 ### 7️⃣ General Machine Learning Papers
-- [ ] **A Few Useful Things to Know About Machine Learning (2012)** - Pedro Domingos [📄 Paper](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) [💻 Repo]()
 - [ ] **Random Forests (2001)** - Leo Breiman [📄 Paper](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf) [💻 Repo]()
 - [ ] **XGBoost: A Scalable Tree Boosting System (2016)** - Chen and Guestrin [📄 Paper](https://arxiv.org/abs/1603.02754) [💻 Repo]()
 - [ ] **Scaling Laws for Neural Language Models (2020)** [📄 Paper](https://arxiv.org/abs/2001.08361) [💻 Repo]()
